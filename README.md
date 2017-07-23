@@ -57,6 +57,19 @@
 下载位于assets目录中。
 
 
+**《我的架构思想》**
+
+> Keyword: Thinking\_in\_Architecture
+
+* 高质量的PDF版本：Thinking\_in\_Architecture.zip
+* 适用于Kindle的版本：Thinking\_in\_Architecture.azw3
+* 使用了SVG图的.epub版本：Thinking\_in\_Architecture.epub
+* 一般质量图片的.epub版本：Thinking\_in\_Architecture-i.epub
+* 低版本Kindle使用的阅读格式：Thinking\_in\_Architecture.mobi
+
+下载位于assets目录中。
+
+
 
 ## 其它
 
