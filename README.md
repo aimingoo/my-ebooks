@@ -56,13 +56,13 @@
 
 **《程序原本》**
 
-> Keyword: Elements\_of\_Programming
+> Keyword: Elements\_of\_Program
 
-* 高质量的PDF版本：Elements\_of\_Programming.zip
-* 适用于Kindle的版本：Elements\_of\_Programming.azw3
-* 使用了SVG图的.epub版本：Elements\_of\_Programming.epub
-* 一般质量图片的.epub版本：Elements\_of\_Programming-i.epub
-* 低版本Kindle使用的阅读格式：Elements\_of\_Programming.mobi
+* 高质量的PDF版本：Elements\_of\_Program.zip
+* 适用于Kindle的版本：Elements\_of\_Program.azw3
+* 使用了SVG图的.epub版本：Elements\_of\_Program.epub
+* 一般质量图片的.epub版本：Elements\_of\_Program-i.epub
+* 低版本Kindle使用的阅读格式：Elements\_of\_Program.mobi
 
 下载位于assets目录中。
 
