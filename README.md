@@ -36,7 +36,7 @@
 
 * 电子版（第二版）[下载](https://github.com/aimingoo/my-ebooks/releases/download/v1.0.0/Tao-Simplest-2_rel.2012.12.18.zip)
 * 电子版（第三版）[下载](https://github.com/aimingoo/my-ebooks/releases/download/v1.0.2/Tao-Simplest-3_rel.2017.05.03.zip)
-* 电子版（第三版）.mobi版本
+* 电子版（第三版）[.mobi版本](https://github.com/aimingoo/my-ebooks/releases/download/v1.0.1/Tao-Simplest.mobi)
 
 下载位于releases中。
 
