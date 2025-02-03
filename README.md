@@ -21,7 +21,7 @@
 
 ### 雨停集
 
-![cover-yu_ting](wiki/images/cover-yu_ting.png)
+![cover-yu_ting](wiki/images/cover-yu_ting-small.png)
 
 * 雨停集 [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集.pdf)
   > 推荐。带目录、书签，双页（左右并排）阅读体验。
