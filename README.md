@@ -23,10 +23,10 @@
 
 ![cover-yu_ting](wiki/images/cover-yu_ting-small.png)
 
-* 雨停集 [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集.pdf)
+* 雨停集 [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting.pdf)
   > 推荐。带目录、书签，双页（左右并排）阅读体验。
   > 
-* 雨停集（手机版） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集（MOBI）.pdf)
+* 雨停集（手机版） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集（MOBI）.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_mobi.pdf)
   > 字体较大，在手机上阅读时可以无限向下翻啊翻。
   > 
 
