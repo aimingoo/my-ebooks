@@ -23,17 +23,17 @@
 
 > 推荐。全3卷。带目录、书签，双页（左右并排）阅读体验，建议首页单独显示。
 
-![cover-yu_ting](wiki/images/cover-yu_ting-1.png)
+![cover-yu_ting](wiki/images/cover-yu_ting-1-small.jpg)
 
 * 雨停集（卷1 诗词卷） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集1.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_1.pdf)
   > ~~雨停集（手机版不再提供）~~
   > 
 
-![cover-yu_ting](wiki/images/cover-yu_ting-2.png)
+![cover-yu_ting](wiki/images/cover-yu_ting-2-small.jpg)
 
 * 雨停集（卷2 散文卷 一 随笔、诗话） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集2.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_2.pdf)
 
-![cover-yu_ting](wiki/images/cover-yu_ting-3.png)
+![cover-yu_ting](wiki/images/cover-yu_ting-3-small.jpg)
 
 * 雨停集（卷3 散文卷 二） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集3.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_3.pdf)
 
