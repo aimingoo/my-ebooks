@@ -5,7 +5,7 @@
 
 
   * [文学类](#%E6%96%87%E5%AD%A6%E7%B1%BB)
-    * [雨停集](#%E9%9B%A8%E5%81%9C%E9%9B%86)
+    * [雨停集（全3卷）](#%E9%9B%A8%E5%81%9C%E9%9B%86)
   * [计算机类](#%E4%B8%BB%E8%A6%81%E4%B9%A6%E7%9B%AE)
     * [大道至简](#%E5%A4%A7%E9%81%93%E8%87%B3%E7%AE%80)
     * [动态函数式语言精髓](#%E5%8A%A8%E6%80%81%E5%87%BD%E6%95%B0%E5%BC%8F%E8%AF%AD%E8%A8%80%E7%B2%BE%E9%AB%93)
@@ -21,16 +21,25 @@
 
 ### 雨停集
 
-![cover-yu_ting](wiki/images/cover-yu_ting-small.png)
+> 推荐。全3卷。带目录、书签，双页（左右并排）阅读体验，建议首页单独显示。
 
-* 雨停集 [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting.pdf)
-  > 推荐。带目录、书签，双页（左右并排）阅读体验。
+![cover-yu_ting](wiki/images/cover-yu_ting-1.png)
+
+* 雨停集（卷1 诗词卷） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集1.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_1.pdf)
+  > ~~雨停集（手机版不再提供）~~
   > 
-* 雨停集（手机版） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集（MOBI）.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_mobi.pdf)
-  > 字体较大，在手机上阅读时可以无限向下翻啊翻。
-  > 
+
+![cover-yu_ting](wiki/images/cover-yu_ting-2.png)
+
+* 雨停集（卷2 散文卷 一 随笔、诗话） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集2.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_2.pdf)
+
+![cover-yu_ting](wiki/images/cover-yu_ting-3.png)
+
+* 雨停集（卷3 散文卷 二） [下载](https://github.com/aimingoo/my-ebooks/raw/master/assets/雨停集3.pdf) 或 [下载（无需翻墙）](https://aimingoo.github.io/about/book_yuting_3.pdf)
+
 
 ## 计算机类
+
 
 ### 大道至简
 
